@@ -1,0 +1,21 @@
+{
+  "id": "kitchen-omc-galactus",
+  "hostname": {
+    "encrypted_data": "VVT82h1YIzHaHSlF/4GjJxB50unt9AdSZvwA0Ijp8vUUteykXyWIFc2mrGRZ\nlHk/\n",
+    "iv": "iRaHBn+wOmYInF+lDNhxUg==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "env_attrs": {
+    "encrypted_data": "ZugnZkl/S/6kWfZTrbOHY6hyKPfb01PjY+Tfos0WBsACbyjezLOFUSONw8qw\nmG+kLRxkYuG8jL3M2z2VQtbrPmu9dnjOVat8moECo7TlEfQGSE68y7JtNACe\nI+7tdtY+JZzCqWNKS1k2fEtzv+yV0jEemphFU2HytvPR2btfjkq+maHKHhZY\n2gmc45Suvw4V7nP4iq7GPwVLB1n/abfpHJGvdPEtcNLGhDBguNP6eCCLa0DC\nC8eHQKbzWZyq0yX6EnLqnUzmPUcJE9lTwsaer0DzSDULJqA4KQB0Tj6XCpDb\n1rEeRFyrbrL2SyzfGUJ6+avlJyZm3zC2fLMDRwOBHic5uAmWscT1j7SH1umG\ngvb7m7suSt7Vz97wz5VjCFXA+gytRzULGi4QOtdk9D7zOv4mNcuJm491OK30\nCXmIeHrjlJeCqC4tDa6DvPTj6w57yl+MouVd5/fcXTfYfXBdXBSjp9vi59n5\nwxahVsf8awfT3tCNQLHI1MCfoTJe1E+V5Gj8VTQ4VGBXqLeaksvOImu0V8Io\npjZNNNLvH6d8Z93S9HJHIvohZzZBahHZGs4+eKaS5uo4K4X9+Y2i7ZXY8kj6\njbCPWy0OZcHzMm/ZhMVNKtMAJde7s+J/hNtjglPn\n",
+    "iv": "1rXQImy2kJ44Ru24VJAhgQ==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "volumes": {
+    "encrypted_data": "VoqpDUz5bphaC7OlvFX5jmgPGJhsTuWjUHY2bXYMYeSQYMN14N18erWCM5ND\nB1vOFQ+8lmd9J/0PbDIao7+RoA==\n",
+    "iv": "1BB/fUxwrLlTo838l4Bzzg==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "kitchen-elq-applog",
+  "hostname": {
+    "encrypted_data": "2Slg5ACnvVTQj+g/eGHSALVswOXPAlnyW7StgCSt/skvywbVK7OJ2I+Xlo4O\nDr3K\n",
+    "iv": "e3v4CIGbTa5u7YMC4wDTcA==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "env_attrs": {
+    "encrypted_data": "2KPPftAIwHDneDqMZ+mIA4M96RdlZ3XoASylcUJipeA5ubv9cyCPm6g0PVFi\nq91tFvjYGb+kP8n6eq6r3uVO1qHdPXVsDwgrdx6oRZiMV3eQ05VLJd7cIb/N\nTPlUniJluDnJzOkVAaMQ1i/XkibQ72T0U2j15mU4B1v9e6k/A8x9uKv9ZURn\n+LSCFrwsnfY6TsTVaOq0lgnxopM874YvqJaEJKLa4ShKZ0Ved/2/kmfe/xc2\nK2UmsBhNEqWNeY5IwOjfOPwPaHd9R1fj/shtDwtcK3UETTQ+0nYzoktIWM1H\nyKfomKcckQjwGO0Upu/NupnPsK13PhxpopaQ6Oprz8n6QHurOHBE4ET7Rrlh\ndKiB9vY9q3LMJhvK6ZmyargYTieA2pxEeQ1/lcWJcaleBmBAG9yagO3GTf/j\naStgSBRld+pkC7wro0AVG257K+xbud9ouqbDN2W4uhVyiOWO4itOzNGX8jDl\nqtE3/WLtJErKJw+6KYMcq7wuAT/FCyJlsIRrA0Q4N8BjcczOWLkdd5Eovsx9\ncz81bhJTDZ/ym9rI62T3lTnM1Xnbc51eJDFaKectJdQ8d4oJLsQtF9dDSYKp\n8W2sob/DLZuThCWWgLA=\n",
+    "iv": "q+PfTe1ZJ9hfIqxUlgXZbQ==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "volumes": {
+    "encrypted_data": "JOQBMzjG0z2N9qK5jSTP9clX4IvLsLwOZgsP2fsH8khmdS5NVyNEtmOmDyYG\nKh5dkFt+zRbTFzOR4gsn1L75FQ==\n",
+    "iv": "yqpwvDLwu2de+Y6RqqVb8g==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}

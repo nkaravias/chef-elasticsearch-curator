@@ -1,0 +1,22 @@
+{
+  "name": "curator-galactus",
+  "description": "Curator instance for the omc-galactus index",
+  "json_class": "Chef::Role",
+  "default_attributes": {
+    "omc_curator": {
+      "curator_dbag_info": [ {"ljk_curator_configs":"kitchen-omc-galactus"}],
+      "curator_ssl_dbag_info":{"certificates":"curator_kitchen"}
+    }
+  },
+  "override_attributes": {
+
+  },
+  "chef_type": "role",
+  "run_list": [
+
+  ],
+  "env_run_lists": {
+
+  }
+}
+

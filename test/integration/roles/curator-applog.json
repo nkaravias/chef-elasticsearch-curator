@@ -1,0 +1,22 @@
+{
+  "name": "curator-applog",
+  "description": "Curator instance for the elq-applog index",
+  "json_class": "Chef::Role",
+  "default_attributes": {
+    "omc_curator": {
+      "curator_dbag_info": [ {"ljk_curator_configs":"kitchen-elq-applog"}],
+      "curator_ssl_dbag_info":{"certificates":"curator_kitchen"}
+    }
+  },
+  "override_attributes": {
+
+  },
+  "chef_type": "role",
+  "run_list": [
+
+  ],
+  "env_run_lists": {
+
+  }
+}
+
